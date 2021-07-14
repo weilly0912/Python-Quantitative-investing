@@ -1,0 +1,16 @@
+﻿在執行代碼時，需要先設定相對路徑。
+
+請將PythonANS.zip(即是博碩官網下載的MP21725_Example.zip) 解壓縮到您電腦中的位置，比如本地磁盤E下面的PythonBook_code_data資料夾。
+
+
+比如，先執行下面python code:
+
+
+import os
+
+
+os.chdir('E:\\PythonBook_code_data\\part2')
+
+
+然後,再run腳本文件中的其他code。
+
